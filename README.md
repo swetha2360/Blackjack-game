@@ -10,8 +10,6 @@ A **console-based Blackjack game** built using Python. The game follows standard
 ✔️ Computer follows the standard Blackjack rule (hits until 17 or more)  
 ✔️ Automatic winner determination  
 
-## 💡 Technologies Used  
-- **Python** (random module for card dealing)  
 
 ## 📌 Game Rules  
 - The game starts with two cards each for the player and the computer.  
