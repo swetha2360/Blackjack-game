@@ -1,7 +1,7 @@
 # 🃏 Blackjack Game in Python  
 
 ## 🎯 Project Overview  
-This is a **console-based Blackjack game** built using Python. The game follows standard Blackjack rules, where the player competes against the computer to get as close to 21 as possible without going over.  
+A **console-based Blackjack game** built using Python. The game follows standard Blackjack rules, where the player competes against the computer to get as close to 21 as possible without going over.  
 
 ## 🛠 Features  
 ✔️ Random card dealing using `random.choice()`  
@@ -9,11 +9,6 @@ This is a **console-based Blackjack game** built using Python. The game follows 
 ✔️ Player can hit (draw a card) or stand (end turn)  
 ✔️ Computer follows the standard Blackjack rule (hits until 17 or more)  
 ✔️ Automatic winner determination  
-
-## 🚀 Getting Started  
-- Clone the repository  
-- Open the Python file  
-- Run the script and enjoy the game!  
 
 ## 💡 Technologies Used  
 - **Python** (random module for card dealing)  
